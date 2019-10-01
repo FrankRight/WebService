@@ -1,0 +1,1 @@
+http://localhost/php/operations_api.php?num1=8&num2=5&num3=3
